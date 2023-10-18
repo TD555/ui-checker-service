@@ -1,0 +1,10 @@
+__pycache__/
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+share/
+.vscode/
+service_for_ui_checker/service/run.py
+test.ipynb
+test_imgs/

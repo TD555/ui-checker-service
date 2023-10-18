@@ -1,0 +1,16 @@
+pip==23.0.1 
+Pillow==10.0.1
+paddleocr==2.7.0.3
+paddlepaddle==2.5.1
+fastapi
+uvicorn
+numpy
+keras
+opencv-python
+pandas
+scikit-learn
+sympy
+matplotlib
+tensorflow
+pyspellchecker
+language-tool-python
